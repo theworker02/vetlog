@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/vetlog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vet host/log network string helpers for config audits.",
+  "bin": {
+    "vetlog": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/vetlog.git"
+  },
+  "homepage": "https://theworker02.github.io/vetlog/",
+  "keywords": [
+    "vet",
+    "log",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
